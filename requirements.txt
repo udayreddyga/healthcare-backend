@@ -1,1 +1,8 @@
+Django>=5.0
+djangorestframework
+djangorestframework-authtoken
+dj-database-url
+whitenoise
+gunicorn
+psycopg2-binary
 
